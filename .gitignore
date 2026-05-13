@@ -216,3 +216,47 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude Code local state
+.claude/
+
+# Abaqus output
+*.odb
+*.sim
+*.lck
+*.dat
+*.msg
+*.sta
+*.com
+*.fil
+*.prt
+*.mdl
+*.stt
+*.SMABulk
+*.SMAFocus
+*.023
+*.cid
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data
+*.csv
+*.pkl
+results/
+output/
+
+# LaTeX (in case any tex files leak in)
+*.aux
+*.log
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
