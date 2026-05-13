@@ -45,7 +45,7 @@ If you use this code, please cite the accompanying dissertation:
 
 > Abu Joudeh, S. (2026). *Modelling Hydrogen Embrittlement in Inconel
 > 600 Using a Cohesive Zone Framework with Machine Learning Analysis*.
-> MEng dissertation, The University of Manchester.
+> BEng dissertation, The University of Manchester.
 
 ## License
 
