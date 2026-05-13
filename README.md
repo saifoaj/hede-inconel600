@@ -1,7 +1,7 @@
 # Hydrogen Embrittlement in Inconel 600 — CZM Framework with ML Analysis
 
 Simulation, post-processing, and machine-learning scripts developed for
-an MEng final-year dissertation at the University of Manchester (School
+an BEng final-year dissertation at the University of Manchester (School
 of Engineering, 2025–26).
 
 ## Overview
